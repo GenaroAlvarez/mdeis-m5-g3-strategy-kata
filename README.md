@@ -1,5 +1,11 @@
 # Strategy Kata
 
+## Integrantes
+- Ing. Alvarez Orias Genaro Mauricio
+- Ing. Dominguez Leon Alex
+- Ing. Nina Guarachi Juan Andres
+- Ing. Tomicha Contreras Percy Willans
+
 ## Cuestionario
 
 1. ¿Cuáles de las siguientes son desventajas de usar la herencia para proporcionar el comportamiento de Duck? (Seleccione todas las que correspondan).
